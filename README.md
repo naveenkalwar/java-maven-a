@@ -1,2 +1,1 @@
-# java-maven-app
-to build simple java application with maven
+Hello Thanks for joining DevOps Training Batch
